@@ -1,0 +1,12 @@
+##Requirements for the project
+
+streamlit
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+chromadb
+beautifulsoup4
+requests
+lxml
+pypdf

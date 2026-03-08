@@ -24,7 +24,7 @@ The application loads webpage content, converts it into embeddings, stores them 
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/local-web-rag.git
+git clone https://github.com/amangujral98/local-web-rag.git
 
 Navigate to the project folder:
 
